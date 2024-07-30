@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Sprint_7 
 1. allure-report directory
 2. src directory: data.py, error_messages.py, utils.py
@@ -5,3 +6,7 @@ Sprint_7
 4. config.py 
 5. .gitignore
 6. requirements.txt
+=======
+# Sprint_7
+Sprint_7
+>>>>>>> main
