@@ -1,0 +1,3 @@
+Response for missing field login: 400, {'code': 400, 'message': 'Недостаточно данных для создания учетной записи'}
+Response for missing field password: 400, {'code': 400, 'message': 'Недостаточно данных для создания учетной записи'}
+Response for missing field firstName: 201, {'ok': True}
